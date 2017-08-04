@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Scooby's Snack and Recipe Page
 
 You can use the [editor on GitHub](https://github.com/Scoobed/scooby_snacks/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+This Scooby's Snacks and Recipes
 
 ### Markdown
 
